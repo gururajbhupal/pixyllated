@@ -1,10 +1,10 @@
 # Site settings
 title:       Pixyllated
-email:       jdwallace12@example.com
+email:       gsb85@cornell.edu
 author:      John Wallace
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "/pixyllated"
-url:         "jdwallace12.github.io/pixyllated/"
+url:         "gururajbhupal.github.io/pixyllated/"
 date_format: "%b %-d, %Y"
 
 # Google services
